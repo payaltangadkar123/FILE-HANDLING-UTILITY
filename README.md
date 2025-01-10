@@ -101,6 +101,10 @@ If an exception occurs (e.g., file not found or I/O error), the program prints a
 Loop Continuation
 After executing an option, the menu reappears unless the user selects "Exit."
 
+**OUTPUT OF THE CODE**
+![Screenshot 2025-01-10 143456](https://github.com/user-attachments/assets/4969d584-12d7-49cc-a251-ef97214e1845)
+![Screenshot 2025-01-10 143517](https://github.com/user-attachments/assets/6e20d281-4791-49c1-9ac7-924cba27069c)
+![Screenshot 2025-01-10 143530](https://github.com/user-attachments/assets/ac1f4102-91ac-4eef-896d-62794c451584)
 
 
 
